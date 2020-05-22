@@ -10,6 +10,7 @@ Prerequisitos
 Obteniendo Archivos
 Con git
 Seguir Estos Pasos:
+
     Aumentar la partición del cowspace: mount -o remount,size=2G /run/archiso/cowspace
     Obtenga una lista de paquetes e instálelos git: pacman -Sy git
     Obtener el Scripts: git clone git://github.com/jutamara90/ISAC20
