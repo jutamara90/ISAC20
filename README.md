@@ -15,7 +15,7 @@
     *Obtener el Scripts: git clone git://github.com/jutamara90/ISAC20
 
 ## COMO USAR
-    1 - instbase [Sistema Base]: cd ISAC20 ; ./instbase
+    1 - instbase [Sistema Base]: cd ISAC20 ; ./installbase
     2 - instpost [Xorg, Escritorio, ETC.]: cd ISAC20 ; ./instpost
 
 
