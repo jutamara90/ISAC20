@@ -13,7 +13,8 @@
     *Aumentar la partición del cowspace: mount -o remount,size=2G /run/archiso/cowspace
     *Obtenga una lista de paquetes e instálelos git: pacman -Sy git
     *Obtener el Scripts: git clone git://github.com/jutamara90/ISAC20
-    *Si al momento de ejecutar el archivo sale error de permisos puedes ejecutar el siguiente comando "chmod 777 archivo". 
+    *Si al momento de ejecutar el archivo sale error de permisos puedes ejecutar el siguiente comando 
+         chmod 777 tu_archivo 
 
 ## COMO USAR
     1 - instbase [Sistema Base]: cd ISAC20 ; ./installbase
